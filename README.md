@@ -21,8 +21,8 @@ End the program.
 ## PROGRAM:
 ```python
 Program to mark the maximum of marks using the list method sort
-Developed by:Sachin.C
-RegisterNumber: 22001187
+Developed by:Praveen
+RegisterNumber: 22005917
 f=open("vlr.txt","r")
 a=f.read()
 b=a.split()
