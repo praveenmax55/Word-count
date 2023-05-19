@@ -32,7 +32,7 @@ f.close()
 
 ### OUTPUT:
 
-![output](./output1.png)
+![output](./wordc.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
