@@ -22,7 +22,7 @@ End the program.
 ```python
 Program to mark the maximum of marks using the list method sort
 Developed by:Praveen
-RegisterNumber: 22005917
+RegisterNumber: 212222240076
 num=0
 with open("file1.txt","r") as f1:
     for i in f1:
